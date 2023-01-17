@@ -1,2 +1,2 @@
 # appCursoGit
-App para curso GIT
+App para curso GIT y Git Hub
